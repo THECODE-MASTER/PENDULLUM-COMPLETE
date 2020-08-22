@@ -8,6 +8,6 @@ class circle{
         var pos =this.body.position;
         ellipseMode(CENTER);
         fill("brown");
-        ellipse(pos.x,pos.y, this.radius);
+        ellipse(pos.x,pos.y, this.radius); 
     }
 }
